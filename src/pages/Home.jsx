@@ -56,7 +56,7 @@ const Home = () => {
       id: 7, 
       name: "Jaqueta Bomber Premium", 
       price: 159.90, 
-      image: "https://images.tcdn.com.br/img/img_prod/1069770/jaqueta_bomber_masculina_premium_1577_1_20201211170943.jpg",
+      image: "https://static.netshoes.com.br/produtos/jaqueta-bomber-hering-lisa-masculina/40/ARI-4163-040/ARI-4163-040_zoom1.jpg?ts=1614356656&ims=1088x",
       category: "Casacos",
       rating: 4.7
     },
@@ -64,7 +64,7 @@ const Home = () => {
       id: 8, 
       name: "Boné New Era 9FIFTY", 
       price: 39.90, 
-      image: "https://images.tcdn.com.br/img/img_prod/745218/bone_new_era_9fifty_chicago_bulls_nba_aba_213_1_9b3b8a8d5f5a31a5c5c8a0a0a0a0a0a0.jpg",
+      image: "https://th.bing.com/th/id/OIP.mJKIz17H9Lq7QL95fwv4WAHaHa?rs=1&pid=ImgDetMain",
       category: "Acessórios",
       rating: 4.0
     }
