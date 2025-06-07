@@ -1,6 +1,6 @@
 # V1SION E-commerce
 
-![Logo](src/assets/images/logo.png)
+![Logo](./public/images/logo.png)
 
 E-commerce moderno com carrinho de compras, histórico de pedidos e modo escuro.
 
