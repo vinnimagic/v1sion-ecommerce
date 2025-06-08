@@ -24,9 +24,6 @@ const Checkout = () => {
 
   return (
     <div className="checkout-page">
-      <center>
-      <h1>Finalizar Compra</h1>
-      </center>
       <Cart />
       {cart.length > 0 && (
         <button onClick={handleCheckout} className="btn-checkout">
