@@ -2,7 +2,7 @@
 
 ![Logo](./public/images/logo.png)
 
-E-commerce moderno com carrinho de compras, histórico de pedidos e modo escuro.
+Loja de roupas streetwear
 
 ## Funcionarios
 
